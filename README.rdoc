@@ -3,26 +3,32 @@
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
-Things you may want to cover:
 
 * Ruby version
+That new one
 
 * System dependencies
+Some random stuff
 
 * Configuration
 
 * Database creation
+Yeah, havent got that working yet, let me know if you figured it out
 
 * Database initialization
+Same as creation
 
 * How to run the test suite
+How to run the what what
 
 * Services (job queues, cache servers, search engines, etc.)
+Uh, fill in with fancy technical talk copied from a manual
 
 * Deployment instructions
+Uh, do whatever you want
 
 * ...
-
+.........
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
